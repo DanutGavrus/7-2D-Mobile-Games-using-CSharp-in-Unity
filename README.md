@@ -9,7 +9,7 @@ This repository contains the following games:
 -6. aa;
 -7. Color Switch.
 ```
-Both for Mobile Phones with Android and any device(pc/laptop) with Windows. Also, it contains the code used for creating those games.
+Both for Mobile Phones with Android and any device(pc/laptop) with Windows. Also, it contains the code used for creating these games.
 
 ## Visual Representations (Windows Printscreens)
 1. Color Switch 2Players
