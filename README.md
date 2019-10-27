@@ -25,7 +25,7 @@ Both for Mobile Phones with Android and any device(pc/laptop) with Windows. Also
 6. aa
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/6.%20aa.png)<br/><br/><br/>
 7. Color Switch
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/7.%20Color%20Switch.png)<br/><br/><br/>
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/7.%20Color%20Switch.png)
 
 ## Getting Started
 For each game you can find BOTH .apk and .rar versions of the game for EASY PLAYING. Also, code can be found in the C# Scripts folders where .cs files are.
