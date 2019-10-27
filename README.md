@@ -11,22 +11,21 @@ This repository contains the following games:
 ```
 Both for Mobile Phones with Android and any device(pc/laptop) with Windows. Also, it contains the code used for creating those games.
 
-## Visual Representations
+## Visual Representations (Windows Printscreens)
 1. Color Switch 2Players
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-1. Color Switch 2Players
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-1. Color Switch 2Players
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-1. Color Switch 2Players
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-1. Color Switch 2Players
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-1. Color Switch 2Players
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-1. Color Switch 2Players
-![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
-1. Color Switch 2Players
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Color%20Switch%202Players.png)<br/><br/><br/>
+2. Line Rider
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/2.%20Line%20Rider.png)<br/><br/><br/>
+3. Doodle Jump
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/3.%20Doodle%20Jump.png)<br/><br/><br/>
+4. 350TheGame
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/4.%20350TheGame.png)<br/><br/><br/>
+5. Fruit Ninja
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/5.%20Fruit%20Ninja.png)<br/><br/><br/>
+6. aa
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/6.%20aa.png)<br/><br/><br/>
+7. Color Switch
+![alt text](https://github.com/DanutGavrus/Photos/blob/master/7.%20Color%20Switch.png)<br/><br/><br/>
 
 ## Getting Started
 For each game you can find BOTH .apk and .rar versions of the game for EASY PLAYING. Also, code can be found in the C# Scripts folders where .cs files are.
@@ -46,7 +45,7 @@ WINDWOS VERSION ! For each game:
 ```
 1) Download .rar version from "2. Windows Version Installers";
 2) Place it anywhere you want to have the game then unzip the archive;
-3) Double click on the .exe file, then click on "Play!" when the Pop-Up appears.
+3) Double click on the .exe file and a pop up appears. Select "Ultra" on Graphics quality tab, then click on "Play!".
 ```
 Also, you can view the C# code if you want.
 
