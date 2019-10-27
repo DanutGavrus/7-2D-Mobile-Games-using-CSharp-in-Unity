@@ -9,16 +9,24 @@ This repository contains the following games:
 -6. aa;
 -7. Color Switch.
 ```
-Both for Mobile Phones with Android and any device(pc/laptop) with Windows. Also, it contains the code used for creating this games.
+Both for Mobile Phones with Android and any device(pc/laptop) with Windows. Also, it contains the code used for creating those games.
 
 ## Visual Representations
+1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Restaurant%20Management.png)<br/><br/><br/>
+1. Color Switch 2Players
 
 ## Getting Started
 For each game you can find BOTH .apk and .rar versions of the game for EASY PLAYING. Also, code can be found in the C# Scripts folders where .cs files are.
