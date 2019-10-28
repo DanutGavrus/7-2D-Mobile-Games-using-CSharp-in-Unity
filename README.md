@@ -56,4 +56,4 @@ Also, you can view the C# code if you want.
 
 ### Games Were Built With
 * [Visual Studio](https://visualstudio.microsoft.com/) - The C# IDE used
-* [Unity](https://unity.com/) - The Game Development Platform used 
+* [Unity](https://unity.com/) - The Game Development Platform used
