@@ -51,6 +51,7 @@ Also, you can view the C# code if you want.
 
 ### Warning !
 ```
+! If you can not extract the .rar, open a new terminal and write: sudo apt-get install unrar
 ! For each game you might get a warning on phone because .apk files were not downloaded from Google Play Store, but those are trusted apks ! For the .rar versions there is no warning.
 ```
 
