@@ -11,7 +11,7 @@ This repository contains the following games:
 ```
 Both for Mobile Phones with Android and any device(pc/laptop) with Windows. Also, it contains the code used for creating these games.
 
-## Visual Representations (Windows Printscreens)
+## Visual Representation (Windows Printscreens)
 1. Color Switch 2Players
 ![alt text](https://github.com/DanutGavrus/Photos/blob/master/1.%20Color%20Switch%202Players.png)<br/><br/><br/>
 2. Line Rider
